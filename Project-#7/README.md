@@ -3,15 +3,15 @@
 
 ### Github Project Link
 ```
-
+https://github.com/KAST-Tech/arduino-basics-projects/tree/main/Project-%237
 ```
 
 ### Tinkercad Project Link
 ```
-
+https://www.tinkercad.com/things/hoBPtkwAoOw
 ```
 
 ### Hackster Project Link
 ```
-
+https://www.hackster.io/KMsaifullah/arduino-basic-project-7-dd0cfa
 ``` 
